@@ -1,0 +1,19 @@
+{
+  "name": "w1d5",
+  "version": "1.0.0",
+  "description": "## Modules",
+  "main": "eatMushrooms.js",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
